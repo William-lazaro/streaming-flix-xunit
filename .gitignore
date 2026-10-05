@@ -1,0 +1,25 @@
+# Build
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Testes
+TestResults/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
